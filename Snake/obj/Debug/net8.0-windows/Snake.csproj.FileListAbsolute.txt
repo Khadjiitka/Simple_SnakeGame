@@ -1,0 +1,17 @@
+C:\Users\Gidroid\source\repos\Snake\obj\Debug\net8.0-windows\Snake.Form1.resources
+C:\Users\Gidroid\source\repos\Snake\obj\Debug\net8.0-windows\Snake.Properties.Resources.resources
+C:\Users\Gidroid\source\repos\Snake\obj\Debug\net8.0-windows\Snake.csproj.GenerateResource.cache
+C:\Users\Gidroid\source\repos\Snake\obj\Debug\net8.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gidroid\source\repos\Snake\obj\Debug\net8.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\Gidroid\source\repos\Snake\obj\Debug\net8.0-windows\Snake.AssemblyInfo.cs
+C:\Users\Gidroid\source\repos\Snake\obj\Debug\net8.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Gidroid\source\repos\Snake\bin\Debug\net8.0-windows\Snake.exe
+C:\Users\Gidroid\source\repos\Snake\bin\Debug\net8.0-windows\Snake.deps.json
+C:\Users\Gidroid\source\repos\Snake\bin\Debug\net8.0-windows\Snake.runtimeconfig.json
+C:\Users\Gidroid\source\repos\Snake\bin\Debug\net8.0-windows\Snake.dll
+C:\Users\Gidroid\source\repos\Snake\bin\Debug\net8.0-windows\Snake.pdb
+C:\Users\Gidroid\source\repos\Snake\obj\Debug\net8.0-windows\Snake.dll
+C:\Users\Gidroid\source\repos\Snake\obj\Debug\net8.0-windows\refint\Snake.dll
+C:\Users\Gidroid\source\repos\Snake\obj\Debug\net8.0-windows\Snake.pdb
+C:\Users\Gidroid\source\repos\Snake\obj\Debug\net8.0-windows\Snake.genruntimeconfig.cache
+C:\Users\Gidroid\source\repos\Snake\obj\Debug\net8.0-windows\ref\Snake.dll
